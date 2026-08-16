@@ -44,6 +44,7 @@ export const metadata: Metadata = {
       'AI-powered tool helping neurodivergent youth identify emotions through body sensations.',
     type: 'website',
   },
+  manifest: '/manifest.json',
 };
 
 export default function RootLayout({

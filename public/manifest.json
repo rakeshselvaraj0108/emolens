@@ -1,0 +1,21 @@
+{
+  "name": "EmoLens",
+  "short_name": "EmoLens",
+  "description": "AI Body-to-Emotion Translator for Neurodivergent Youth",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1b2e",
+  "theme_color": "#1a1b2e",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
