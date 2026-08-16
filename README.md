@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <a href="#the-problem"><img src="https://img.shields.io/badge/Track-Wellness_(Intermediate)-8ecae6?style=for-the-badge&labelColor=1a1b2e" alt="Wellness — Intermediate Track" /></a>
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js 16" /></a>
   <a href="#-ai-architecture"><img src="https://img.shields.io/badge/Gemini_3.6_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 3.6 Flash" /></a>
   <a href="#-ai-architecture"><img src="https://img.shields.io/badge/LangGraph_JS-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph JS" /></a>
