@@ -1,4 +1,4 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import { Outfit, Inter } from 'next/font/google';
 import { Navigation } from '@/components/layout/Navigation';
 import { Footer } from '@/components/layout/Footer';
@@ -20,7 +20,12 @@ const inter = Inter({
   variable: '--font-inter',
 });
 
+export const viewport: Viewport = {
+  themeColor: '#1a1b2e',
+};
+
 export const metadata: Metadata = {
+  metadataBase: new URL('https://emo-lens-navy.vercel.app'),
   title: 'EmoLens — Map Your Body, Find Your Words',
   description:
     'AI-powered tool helping neurodivergent youth identify emotions through body sensations. Body-first, not label-first.',
@@ -43,6 +48,12 @@ export const metadata: Metadata = {
     description:
       'AI-powered tool helping neurodivergent youth identify emotions through body sensations.',
     type: 'website',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'EmoLens — Map Your Body, Find Your Words',
+    description:
+      'AI-powered tool helping neurodivergent youth identify emotions through body sensations.',
   },
   manifest: '/manifest.json',
 };
