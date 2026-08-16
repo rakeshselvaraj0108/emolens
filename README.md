@@ -22,6 +22,7 @@
 
 <p align="center">
   <strong><a href="https://emo-lens-navy.vercel.app/">🚀 Live Demo</a></strong> · 
+  <strong><a href="https://youtube.com/shorts/PlUsvgC1C1g?si=F8r8EmuvL-9-UCkH">🎥 Demo Video</a></strong> · 
   <a href="#-quick-start">Quick Start</a> · 
   <a href="#-the-problem">The Problem</a> · 
   <a href="#-how-it-works">How It Works</a> · 
