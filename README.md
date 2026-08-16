@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="#-the-problem"><img src="https://img.shields.io/badge/Track_2-AI_for_Connection_%26_Wellbeing-8ecae6?style=for-the-badge&labelColor=1a1b2e" alt="Track 2 — AI for Connection & Wellbeing" /></a>
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js 16" /></a>
   <a href="#-ai-architecture"><img src="https://img.shields.io/badge/Gemini_3.6_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 3.6 Flash" /></a>
   <a href="#-ai-architecture"><img src="https://img.shields.io/badge/LangGraph_JS-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph JS" /></a>
@@ -249,7 +248,7 @@ EmoLens uses a **LangGraph JS StateGraph** — a directed graph with persistent 
 
 ### Cost
 
-The entire AI pipeline runs within **free tiers** of both Gemini and Groq APIs — **$0.00 infrastructure cost** for the hackathon.
+The entire AI pipeline runs within **free tiers** of both Gemini and Groq APIs — **$0.00 infrastructure cost**.
 
 ---
 
@@ -393,8 +392,8 @@ emolens/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/z-lovejeet/EmoLens.git
-cd EmoLens
+git clone https://github.com/rakeshselvaraj0108/emolens.git
+cd emolens
 npm install
 ```
 
@@ -515,10 +514,6 @@ EmoLens is grounded in peer-reviewed clinical research:
 - **Neurodiversity-Affirming Design** — Participatory co-design methodology following IncludAI criteria
 
 ---
-
-## Hackathon
-
-**EmoLens** is built for **IncludAI — The Neurodiversity Hackathon 2026**, Track 2: AI for Connection & Wellbeing.
 
 Every design decision, from the body-first interaction model to the sensory-safe animations, was made with neurodivergent users at the center — not as an afterthought, but as the foundation.
 
