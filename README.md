@@ -521,6 +521,22 @@ Every design decision, from the body-first interaction model to the sensory-safe
 
 ---
 
+## FAQ
+
+**Does EmoLens diagnose emotions or mental health conditions?**
+No. EmoLens never diagnoses. All AI output is framed as a hypothesis (*"This might be..."*) and is not a substitute for professional care.
+
+**What happens if I don't create an account?**
+Everything works fully offline-first via IndexedDB. An account is only needed for cross-device sync.
+
+**What happens during a crisis-flagged check-in?**
+The AI pipeline halts emotion mapping and routes the user directly to the 988 Suicide & Crisis Lifeline.
+
+**Can I self-host EmoLens?**
+Yes — see [Quick Start](#-quick-start). You'll need your own Supabase project and free-tier Gemini/Groq API keys.
+
+---
+
 <p align="center">
   Built with care for neurodivergent youth everywhere.
 </p>
